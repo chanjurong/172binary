@@ -90,7 +90,7 @@
                     <field name="VAR">martingale:amount</field>
                     <value name="VALUE">
                       <field name="NUM">0.35</field> <comment> THIS LINE IS AN ADDITION NOT ORIGINAL</comment>
-<comment>                      <block type="text_prompt_ext" id="^4peSz1pJ=`,CaD#@6Jd"> 
+ <comment>                      <block type="text_prompt_ext" id="^4peSz1pJ=`,CaD#@6Jd">  delete the closing block and place below</block></comment>
                         <mutation type="NUMBER"></mutation>
                         <field name="TYPE">NUMBER</field>
                         <value name="TEXT">
@@ -101,8 +101,7 @@
                             <field name="TEXT">Trade Amount</field>
                           </block>
                         </value>
-                      </block>
-</comment>
+<comment>              this is where the closing block tag is supposed to be </comment>
                     </value>
                   </block>
                 </statement>
