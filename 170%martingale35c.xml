@@ -88,7 +88,8 @@
                 <statement name="DO0">
                   <block type="variables_set" id="ZxKDnNw2?MsznEZQtR6`">
                     <field name="VAR">martingale:amount</field>
-                    <value name="VALUE">0.48
+                    <value name="VALUE">
+                      <field name="VALUE">0.48</field>
                     </value>
                   </block>
                 </statement>
