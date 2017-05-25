@@ -96,8 +96,9 @@
                           <shadow type="text" id=".P`a1!r=yj-[H(SJX}_m">
                             <field name="TEXT">abc</field>
                           </shadow>
-                          <block type="text" id="=6eX{Eblptb4BBlz7?U[">1.15
+                          <block type="text" id="=6eX{Eblptb4BBlz7?U[">
                             <field name="TEXT">Trade Amount</field>
+                            <field name="NUM">0.48</field>
                           </block>
                         </value>
                       </block>
