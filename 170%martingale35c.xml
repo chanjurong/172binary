@@ -89,7 +89,8 @@
                   <block type="variables_set" id="ZxKDnNw2?MsznEZQtR6`">
                     <field name="VAR">martingale:amount</field>
                     <value name="VALUE">
-                      <block type="variables_set" id="^4peSz1pJ=`,CaD#@6Jd"> <comment> LINE EDITED ( text_prompt_ext ) to ( variables_set ) </comment> 
+                      <field name="NUM">0.35</field> <comment> THIS LINE IS AN ADDITION NOT ORIGINAL</comment>
+<comment>                      <block type="text_prompt_ext" id="^4peSz1pJ=`,CaD#@6Jd"> 
                         <mutation type="NUMBER"></mutation>
                         <field name="TYPE">NUMBER</field>
                         <value name="TEXT">
@@ -101,6 +102,7 @@
                           </block>
                         </value>
                       </block>
+</comment>
                     </value>
                   </block>
                 </statement>
