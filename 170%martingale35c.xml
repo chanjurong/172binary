@@ -89,10 +89,9 @@
                   <block type="variables_set" id="ZxKDnNw2?MsznEZQtR6`">
                     <field name="VAR">martingale:amount</field>
                     <value name="VALUE">
-                      <field name="NUM">0.35</field> <comment> THIS LINE IS AN ADDITION NOT ORIGINAL</comment>
  <comment>                      <block type="text_prompt_ext" id="^4peSz1pJ=`,CaD#@6Jd">  delete the closing block and place below</block></comment>
                         <mutation type="NUMBER"></mutation>
-                        <field name="TYPE">NUMBER</field>
+                      <field name="TYPE">0.35</field> <comment>the original word is NUMBER not 0.35</comment>
                         <value name="TEXT">
                           <shadow type="text" id=".P`a1!r=yj-[H(SJX}_m">
                             <field name="TEXT">abc</field>
