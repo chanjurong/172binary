@@ -91,7 +91,7 @@
                     <value name="VALUE">
                       <block type="variables_set" id="^4peSz1pJ=`,CaD#@6Jd"> <comment> LINE EDITED ( text_prompt_ext ) to ( variables_set ) </comment> 
                         <mutation type="NUMBER"></mutation>
-                        <field name="NUM">0.35</field> <comment>LINE EDITED (<field name="TYPE">NUMBER</field>) TO (<field name="NUM">0.35</field>) </comment>
+                        <field name="TYPE">NUMBER</field>
                         <value name="TEXT">
                           <shadow type="text" id=".P`a1!r=yj-[H(SJX}_m">
                             <field name="TEXT">abc</field>
