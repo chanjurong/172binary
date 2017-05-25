@@ -89,9 +89,10 @@
                   <block type="variables_set" id="ZxKDnNw2?MsznEZQtR6`">
                     <field name="VAR">martingale:amount</field>
                     <value name="VALUE">
-                      <!-- <block type="text_prompt_ext" id="^4peSz1pJ=`,CaD#@6Jd">
+                      <block type="text_prompt_ext" id="^4peSz1pJ=`,CaD#@6Jd">
                         <mutation type="NUMBER"></mutation>
                         <field name="TYPE">NUMBER</field>
+						<field name="NUM">1</field>
                         <value name="TEXT">
                           <shadow type="text" id=".P`a1!r=yj-[H(SJX}_m">
                             <field name="TEXT">abc</field>
@@ -100,10 +101,7 @@
                             <field name="TEXT">Trade Amount</field>
                           </block>
                         </value>
-                      </block> -->
-					  <block type="math_number" id="DcgRnz]nVdJyT*eH=v!;">
-                                <field name="NUM">0</field>
-                              </block>
+                      </block>
                     </value>
                   </block>
                 </statement>
