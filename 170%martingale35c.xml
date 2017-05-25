@@ -87,20 +87,25 @@
                 </value>
                 <statement name="DO0">
                   <block type="variables_set" id="ZxKDnNw2?MsznEZQtR6`">
-                    <field name="VAR">martingale:amount</field>
+<comment>!!</comment>                    <field name="VAR">martingale:amount</field>
                     <value name="VALUE">
- <comment>                      <block type="text_prompt_ext" id="^4peSz1pJ=`,CaD#@6Jd">  delete the closing block and place below</block></comment>
+                      <block type="text_prompt_ext" id="^4peSz1pJ=`,CaD#@6Jd">
                         <mutation type="NUMBER"></mutation>
-                      <field name="TYPE">NUMBER</field>
-                        <value name="TEXT">
+                        <field name="TYPE">NUMBER</field>
+                        <!-- <value name="TEXT">
                           <shadow type="text" id=".P`a1!r=yj-[H(SJX}_m">
-                            <field name="TEXT">0.35</field> <comment>the original word is abc not 0.35</comment>
+                            <field name="TEXT">abc</field>
                           </shadow>
                           <block type="text" id="=6eX{Eblptb4BBlz7?U[">
                             <field name="TEXT">Trade Amount</field>
                           </block>
+                        </value> -->
+						<value name="VALUE">
+                          <block type="math_number" id="V^QkcFsonsJWZ0pgI8IU">
+                            <field name="NUM">0.35</field>
+                          </block>
                         </value>
-<comment>              this is where the closing block tag is supposed to be </comment>
+                      </block>
                     </value>
                   </block>
                 </statement>
