@@ -92,10 +92,10 @@
                       <block type="text_prompt_ext" id="^4peSz1pJ=`,CaD#@6Jd">
                         <mutation type="NUMBER"></mutation>
                         <field name="TYPE">NUMBER</field>
-                        <field name="NUM">0.35</field>
                         <value name="TEXT">
                           <shadow type="text" id=".P`a1!r=yj-[H(SJX}_m">
                             <field name="TEXT">abc</field>
+                            <field name="NUM">0.35</field>
                           </shadow>
                           <block type="text" id="=6eX{Eblptb4BBlz7?U[">
                             <field name="TEXT">Trade Amount</field>
