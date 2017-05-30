@@ -93,11 +93,6 @@
                         <mutation type="NUMBER"></mutation>
                         <field name="TYPE">NUMBER</field>
                         <value name="TEXT">
-                          
-                          <block type="math_number" id="V^QkcFsonsJWZ0pgI8IU">
-                            <field name="NUM">1</field>
-                          </block>
-                          
                           <shadow type="text" id=".P`a1!r=yj-[H(SJX}_m">
                             <field name="TEXT">abc</field>
                           </shadow>
@@ -106,7 +101,6 @@
                           </block>
                         </value>
                       </block> 
-                      
                     </value>
                   </block>
                 </statement>
