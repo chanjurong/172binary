@@ -78,6 +78,7 @@
                     <value name="A">
                       <block type="variables_get" id="WjGS@!}HI|kFH{rJqavk">
                         <field name="VAR">martingale:amount</field>
+                         <field name="NUM">1</field>
                       </block>
                     </value>
                     <value name="B">
@@ -95,7 +96,6 @@
                         <value name="TEXT">
                           <shadow type="text" id=".P`a1!r=yj-[H(SJX}_m">
                             <field name="TEXT">abc</field>
-                            <field name="NUM">0.35</field>
                           </shadow>
                           <block type="text" id="=6eX{Eblptb4BBlz7?U[">
                             <field name="TEXT">Trade Amount</field>
@@ -527,7 +527,7 @@
     </value>
   </block>
   <block type="procedures_callreturn" id="!u{3VlFd}x~LAr|BMM7G" x="0" y="156">
-    <mutation name="Martingale Trade Amount"></mutation>
+    <mutation name="Martingale Trade f"></mutation>
   </block>
   <block type="controls_if" id="=KbO,-HqtVsGwXTFQu;A" x="0" y="206">
     <value name="IF0">
