@@ -89,8 +89,11 @@
                   <block type="variables_set" id="ZxKDnNw2?MsznEZQtR6`">
                     <field name="VAR">martingale:amount</field>
                     <value name="VALUE">
+                      <shadow type="math_number" id="v*eC4j=U!K8B76C5kQ*U">
+                      <field name="NUM">0.38</field>
+                      </shadow>
                       <block type="text" id="^4peSz1pJ=`,CaD#@6Jd">
-                         <mutation type="NUMBER">0.52</mutation>
+                         <mutation type="NUMBER"></mutation>
                         <field name="TYPE">NUMBER</field>
                         <value name="TEXT">
                           <shadow type="text" id=".P`a1!r=yj-[H(SJX}_m">
