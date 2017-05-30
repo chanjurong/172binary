@@ -21,7 +21,7 @@
           <block type="variables_set" id="p8_@*8We560p~d]XEj-I">
             <field name="VAR">martingale:expectedProfit</field>
             <value name="VALUE">
-              <block type="text_prompt_ext" id="%r0#U,KXY;)S1-I},GCs">
+              <block type="text" id="%r0#U,KXY;)S1-I},GCs">
                 <mutation type="NUMBER"></mutation>
                 <field name="TYPE">NUMBER</field>
                 <value name="TEXT">
@@ -55,7 +55,7 @@
               <block type="variables_set" id="t3Gw#E]HVqIM/6J-t-2Y">
                 <field name="VAR">martingale:maximumLoss</field>
                 <value name="VALUE">
-                  <block type="text_prompt_ext" id="K[Cz2)F(1ny#Zw!j7j!V">
+                  <block type="text" id="K[Cz2)F(1ny#Zw!j7j!V">
                     <mutation type="NUMBER"></mutation>
                     <field name="TYPE">NUMBER</field>
                     <value name="TEXT">
@@ -89,7 +89,7 @@
                   <block type="variables_set" id="ZxKDnNw2?MsznEZQtR6`">
                     <field name="VAR">martingale:amount</field>
                     <value name="VALUE">
-                      <block type="text_prompt_ext" id="^4peSz1pJ=`,CaD#@6Jd">
+                      <block type="text" id="^4peSz1pJ=`,CaD#@6Jd">
                         <mutation type="NUMBER"></mutation>
                         <field name="TYPE">NUMBER</field>
                         <value name="TEXT">
