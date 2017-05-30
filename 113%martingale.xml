@@ -90,11 +90,11 @@
                     <field name="VAR">martingale:amount</field>
                     <value name="VALUE">
                       <block type="text_prompt_ext" id="^4peSz1pJ=`,CaD#@6Jd">
-                         <mutation type="NUMBER"></mutation>
+                        <mutation type="NUMBER"></mutation>
                         <field name="TYPE">NUMBER</field>
                         <value name="TEXT">
                           <shadow type="text" id=".P`a1!r=yj-[H(SJX}_m">
-                            <comment><field name="TEXT">abc</field></comment>
+                            <field name="TEXT">0.57</field>
                           </shadow>
                           <block type="text" id="=6eX{Eblptb4BBlz7?U[">
                             <field name="TEXT">Trade Amount</field>
@@ -526,7 +526,7 @@
     </value>
   </block>
   <block type="procedures_callreturn" id="!u{3VlFd}x~LAr|BMM7G" x="0" y="156">
-    <mutation name="Martingale Trade f"></mutation>
+    <mutation name="Martingale Trade Amount"></mutation>
   </block>
   <block type="controls_if" id="=KbO,-HqtVsGwXTFQu;A" x="0" y="206">
     <value name="IF0">
