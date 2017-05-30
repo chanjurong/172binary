@@ -89,12 +89,12 @@
                   <block type="variables_set" id="ZxKDnNw2?MsznEZQtR6`">
                     <field name="VAR">martingale:amount</field>
                     <value name="VALUE">
-                      <block type="text" id="^4peSz1pJ=`,CaD#@6Jd">
+                      <block type="num" id="^4peSz1pJ=`,CaD#@6Jd">
+                         <field name="NUM">1</field>
                         <mutation type="NUMBER"></mutation>
                         <field name="TYPE">NUMBER</field>
                         <value name="TEXT">
                           <shadow type="text" id=".P`a1!r=yj-[H(SJX}_m">
-                            <field name="NUM">1</field>
                             <comment><field name="TEXT">abc</field></comment>
                           </shadow>
                           <block type="text" id="=6eX{Eblptb4BBlz7?U[">
