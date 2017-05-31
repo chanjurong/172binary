@@ -21,19 +21,10 @@
           <block type="variables_set" id="p8_@*8We560p~d]XEj-I">
             <field name="VAR">martingale:expectedProfit</field>
             <value name="VALUE">
-              <block type="text_prompt_ext" id="%r0#U,KXY;)S1-I},GCs">
-                <mutation type="NUMBER"></mutation>
-                <field name="TYPE">NUMBER</field>
-                <value name="TEXT">
-                  <shadow type="text" id=".P`a1!r=yj-[H(SJX}_m">
-                    <field name="TEXT">abc</field>
+                  <shadow type="math_number" id="QujpfOq.d^A8_SMe`uvh">
+                    <field name="NUM">1</field>
                   </shadow>
-                  <block type="text" id="AlB(yFhIT1/FZu-ZEpqQ">
-                    <field name="TEXT">Expected Profit</field>
-                  </block>
                 </value>
-              </block>
-            </value>
           </block>
         </statement>
         <next>
