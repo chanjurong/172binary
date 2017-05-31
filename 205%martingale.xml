@@ -22,7 +22,7 @@
             <field name="VAR">martingale:expectedProfit</field>
             <value name="VALUE">
                   <shadow type="math_number" id="QujpfOq.d^A8_SMe`uvh">
-                    <field name="NUM">1</field>
+                    <field name="NUM">250</field>
                   </shadow>
                 </value>
           </block>
@@ -45,19 +45,10 @@
             <statement name="DO0">
               <block type="variables_set" id="t3Gw#E]HVqIM/6J-t-2Y">
                 <field name="VAR">martingale:maximumLoss</field>
-                <value name="VALUE">
-                  <block type="text_prompt_ext" id="K[Cz2)F(1ny#Zw!j7j!V">
-                    <mutation type="NUMBER"></mutation>
-                    <field name="TYPE">NUMBER</field>
-                    <value name="TEXT">
-                      <shadow type="text" id=".P`a1!r=yj-[H(SJX}_m">
-                        <field name="TEXT">abc</field>
-                      </shadow>
-                      <block type="text" id="dfNPxr:VpC%uF[yz%xk[">
-                        <field name="TEXT">Maximum Loss Amount</field>
-                      </block>
-                    </value>
-                  </block>
+                  <value name="VALUE">
+                  <shadow type="math_number" id="QujpfOq.d^A8_SMe`uvh">
+                    <field name="NUM">250</field>
+                  </shadow>
                 </value>
               </block>
             </statement>
@@ -79,20 +70,11 @@
                 <statement name="DO0">
                   <block type="variables_set" id="ZxKDnNw2?MsznEZQtR6`">
                     <field name="VAR">martingale:amount</field>
-                    <value name="VALUE">
-                      <block type="text_prompt_ext" id="^4peSz1pJ=`,CaD#@6Jd">
-                        <mutation type="NUMBER"></mutation>
-                        <field name="TYPE">NUMBER</field>
-                        <value name="TEXT">
-                          <shadow type="text" id=".P`a1!r=yj-[H(SJX}_m">
-                            <field name="TEXT">abc</field>
-                          </shadow>
-                          <block type="text" id="=6eX{Eblptb4BBlz7?U[">
-                            <field name="TEXT">Trade Amount</field>
-                          </block>
-                        </value>
-                      </block>
-                    </value>
+                      <value name="VALUE">
+                  <shadow type="math_number" id="QujpfOq.d^A8_SMe`uvh">
+                    <field name="NUM">250</field>
+                  </shadow>
+                </value>
                   </block>
                 </statement>
                 <next>
