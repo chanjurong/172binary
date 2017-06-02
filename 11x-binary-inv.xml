@@ -208,10 +208,8 @@
             </value>
   <comment> the block closing tag is supposed to be inserted here </comment>
 </comment>
-        </statement>
         
 <comment> this is my addition to create a variable to always set it to $50 </comment>
-<statement name="DO0">
           <block type="variables_set" id=",*SKPEhPmhmsq#tq`G*9">
             <field name="VAR">martingale:amountTo50</field>
             <value name="VALUE">
