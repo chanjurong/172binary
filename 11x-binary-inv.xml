@@ -221,8 +221,7 @@
                     <field name="NUM">1</field>
                   </shadow>
                   <block type="variables_get" id="!7jq#O^~DP+j~efJv=eV">
-                    <field name="VAR">martingale:amount</field>
-                    <comment> i made some changes to the line above from martingale:size to martingale:amount</comment>
+                    <field name="VAR">martingale:size</field>
                   </block>
                 </value>
                 <value name="B">
