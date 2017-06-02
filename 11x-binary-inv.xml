@@ -220,7 +220,7 @@
                     <field name="NUM">1</field>
                   </shadow>
                   <block type="variables_get" id="!7jq#O^~DP+j~efJv=eV">
-                    <field name="VAR">martingale:size</field>
+                    <field name="VAR">martingale:amount</field> <comment> changed martingale:size to martingale:amount </comment>
                   </block>
                 </value>
                 <value name="B">
@@ -228,7 +228,7 @@
                     <field name="NUM">1</field>
                   </shadow>
                   <block type="math_number" id="f4;y.Q47WJBWSp4}1|_k">
-                    <field name="NUM">11</field>
+                    <field name="NUM">1.5</field>
                   </block>
                 </value>
               </block>
