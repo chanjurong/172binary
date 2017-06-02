@@ -211,8 +211,7 @@
         </statement>
         <statement name="ELSE">
           <block type="variables_set" id="t-K_E*m(aYDGloWhgc%=">
-            <field name="VAR">martingale:amount</field>
-            <comment> i made some changes to the line above from martingale:size to martingale:amount</comment>
+            <field name="VAR">martingale:size</field>
             <value name="VALUE">
               <block type="math_arithmetic" id=";x;#^I=T5+dN,Zu?u9%y">
                 <field name="OP">MULTIPLY</field>
@@ -221,7 +220,7 @@
                     <field name="NUM">1</field>
                   </shadow>
                   <block type="variables_get" id="!7jq#O^~DP+j~efJv=eV">
-                    <field name="VAR">martingale:size</field>
+                    <field name="VAR">martingale:amount</field>
                     <comment> i made some changes to the line above from martingale:size to martingale:amount</comment>
                   </block>
                 </value>
