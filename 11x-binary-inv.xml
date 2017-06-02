@@ -214,7 +214,8 @@
             <field name="VAR">martingale:size</field>
             <value name="VALUE">
               <block type="math_arithmetic" id=";x;#^I=T5+dN,Zu?u9%y">
-                <field name="OP">MULTIPLY</field>
+                <field name="OP">ADD</field>
+                <comment> i made some changes to the line above from MULTIPLY to ADD</comment>
                 <value name="A">
                   <shadow type="math_number" id="QujpfOq.d^A8_SMe`uvh">
                     <field name="NUM">1</field>
