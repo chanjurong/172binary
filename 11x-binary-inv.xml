@@ -216,7 +216,7 @@
             <field name="VAR">martingale:size</field>
             <value name="VALUE">
               <block type="math_arithmetic" id=";x;#^I=T5+dN,Zu?u9%y">
-                <field name="OP">MULTIPLY</field>
+                <field name="OP">ADD</field>
                 <value name="A">
                   <shadow type="math_number" id="QujpfOq.d^A8_SMe`uvh">
                     <field name="NUM">1</field>
@@ -227,11 +227,12 @@
                 </value>
                 <value name="B">
                   <shadow type="math_number" id="%6%m1;%94AYq9a7`g[u!">
-                    <field name="NUM">1</field>
+                    <field name="NUM">8</field>
                   </shadow>
-                  <block type="math_number" id="f4;y.Q47WJBWSp4}1|_k">
+<COMMENT>                  <block type="math_number" id="f4;y.Q47WJBWSp4}1|_k">
                     <field name="NUM">1.25</field>
-                  </block>  
+                  </block>
+</COMMENT>
                 </value>
               </block>
             </value>
