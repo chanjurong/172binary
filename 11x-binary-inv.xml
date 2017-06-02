@@ -192,7 +192,7 @@
                     <field name="NUM">1</field>
                   </shadow>
                   <block type="math_number" id="f4;y.Q47WJBWSp4}1|_k">
-                    <field name="NUM">0.95</field>
+                    <field name="NUM">0.987</field>
                   </block>
                 </value>
               </block>
