@@ -208,32 +208,6 @@
             </value>
   <comment> the block closing tag is supposed to be inserted here </comment>
 </comment>
-        
-<comment> this is my addition to create a variable to always set it to $50 </comment>
-          <block type="variables_set" id=",*SKPEhPmhmsq#tq`G*9">
-            <field name="VAR">martingale:amountTo50</field>
-            <value name="VALUE">
-              <block type="math_arithmetic" id=";x;#^I=T5+dN,Zu?u9%y">
-                <field name="OP">SUBTRACT</field>
-                <value name="A">
-                  <shadow type="math_number" id="QujpfOq.d^A8_SMe`uvh">
-                    <field name="NUM">1</field>
-                  </shadow>
-                  <block type="math_number" id="f4;y.Q47WJBWSp4}1|_k">
-                    <field name="NUM">50</field>
-                  </block>
-                </value>
-                <value name="B">
-                  <shadow type="math_number" id="%6%m1;%94AYq9a7`g[u!">
-                    <field name="NUM">1</field>
-                  </shadow>
-                  <block type="variables_get" id="!7jq#O^~DP+j~efJv=eV">
-                    <field name="VAR">martingale:size</field>
-                  </block>
-                </value>
-              </block>
-            </value>
-           </block>
         </statement>
         
         
@@ -255,13 +229,9 @@
                   <shadow type="math_number" id="%6%m1;%94AYq9a7`g[u!">
                     <field name="NUM">1</field>
                   </shadow>
-                  <block type="variables_get" id="f4;y.Q47WJBWSp4}1|_k">
-                    <field name="VAR">martingale:amountTo50</field>
-                  </block>
-<COMMENT>                  <block type="math_number" id="f4;y.Q47WJBWSp4}1|_k">
-                    <field name="NUM">1.5</field>
-                  </block>
-</COMMENT>  
+                  <block type="math_number" id="f4;y.Q47WJBWSp4}1|_k">
+                    <field name="NUM">10</field>
+                  </block>  
                 </value>
               </block>
             </value>
