@@ -47,8 +47,8 @@
                 <field name="VAR">martingale:maximumLoss</field>
                   <value name="VALUE">
                   <shadow type="math_number" id="QujpfOq.d^A8_SMe`uvh">
-                    <field name="NUM">250</field>
-<comment>This is to enable 4 successive failures, the 5th is stopped out </comment>
+                    <field name="NUM">200</field>
+<comment>This is to enable 6 successive failures, the 7th is stopped out </comment>
                   </shadow>
                 </value>
               </block>
