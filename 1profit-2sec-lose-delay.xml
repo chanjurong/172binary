@@ -426,8 +426,9 @@
                                     </statement>
                                     <statement name="ELSE">
                                     
-<comment> this line below is edited </comment>                                    
-                                    <statement name="DO0">
+<comment> this line below is edited </comment>
+
+
                                       <block type="variables_set" id="y%eZ%16)YFB?;J!WT-/1">
                                         <field name="VAR">martingale:tradeAgain</field>
                                         <value name="VALUE">
@@ -436,7 +437,7 @@
                                           </block>
                                         </value>
                                       </block>
-                                    </statement>
+
 <comment> this line above is edited </comment>                                    
                                     
                                     
