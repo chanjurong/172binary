@@ -428,16 +428,14 @@
                                     
 <comment> this line below is edited </comment>
 
-
-                                      <block type="variables_set" id="y%eZ%16)YFB?;J!WT-/1">
-                                        <field name="VAR">martingale:tradeAgain</field>
-                                        <value name="VALUE">
-                                          <block type="logic_boolean" id="qt?z|=[ordjkFsa{CxlK">
-                                            <field name="BOOL">TRUE</field>
-                                          </block>
-                                        </value>
-                                      </block>
-
+                                    <block type="variables_set" id="ix3Jwr;,l7NS%LeIjciS">
+                            <field name="VAR">martingale:tradeAgain</field>
+                            <value name="VALUE">
+                              <block type="logic_boolean" id="Z;.teZof4syfkPW!mqo,">
+                                <field name="BOOL">FALSE</field>
+                              </block>
+                            </value>
+                                    </block>
 <comment> this line above is edited </comment>                                    
                                     
                                     
