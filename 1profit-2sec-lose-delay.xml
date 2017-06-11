@@ -367,7 +367,7 @@
                             <field name="VAR">martingale:tradeAgain</field>
                             <value name="VALUE">
                               <block type="logic_boolean" id="Z;.teZof4syfkPW!mqo,">
-                                <field name="BOOL">FALSE</field>
+                                <field name="BOOL">TRUE</field>
                               </block>
                             </value>
                             <next>
