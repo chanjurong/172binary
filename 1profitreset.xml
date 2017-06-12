@@ -366,8 +366,8 @@
                           <block type="variables_set" id="ix3Jwr;,l7NS%LeIjciS">
                             <field name="VAR">martingale:tradeAgain</field>
                             <value name="VALUE">
-                              <block type="logic_boolean" id="Z;.teZof4syfkPW!mqo,">
-                                <field name="BOOL">FALSE</field>
+                              <block type="math_number" id="Z;.teZof4syfkPW!mqo,">
+                                <field name="NUM">0</field>
                               </block>
                             </value>
                             <next>
@@ -396,20 +396,12 @@
                                         <field name="OP">GT</field>
                                         <value name="A">
                                           <block type="variables_get" id="J~+vmLG#*!wX@7rgH_a9">
-                                            <field name="VAR">martingale:totalProfit</field>
+                                            <field name="VAR">martingale:profit</field>
                                           </block>
                                         </value>
                                         <value name="B">
-                                          <block type="math_single" id="ETDn1dh]F.b#8{zcD@+|">
-                                            <field name="OP">NEG</field>
-                                            <value name="NUM">
-                                              <shadow type="math_number" id="#4N:bIe?FzTA#rOZjMqo">
-                                                <field name="NUM">9</field>
-                                              </shadow>
-                                              <block type="variables_get" id="OovN9^AB=zF:sTh-=oGq">
-                                                <field name="VAR">martingale:maximumLoss</field>
-                                              </block>
-                                            </value>
+                                          <block type="math_number" id="ETDn1dh]F.b#8{zcD@+|">
+                                            <field name="NUM">0</field>
                                           </block>
                                         </value>
                                       </block>
@@ -418,8 +410,8 @@
                                       <block type="variables_set" id="y%eZ%16)YFB?;J!WT-/1">
                                         <field name="VAR">martingale:tradeAgain</field>
                                         <value name="VALUE">
-                                          <block type="logic_boolean" id="qt?z|=[ordjkFsa{CxlK">
-                                            <field name="BOOL">TRUE</field>
+                                          <block type="math_number" id="qt?z|=[ordjkFsa{CxlK">
+                                            <field name="NUM">2</field>
                                           </block>
                                         </value>
                                       </block>
@@ -451,8 +443,8 @@
                                       <block type="variables_set" id="y%eZ%16)YFB?;J!WT-/1">
                                         <field name="VAR">martingale:tradeAgain</field>
                                         <value name="VALUE">
-                                          <block type="logic_boolean" id="qt?z|=[ordjkFsa{CxlK">
-                                            <field name="BOOL">FALSE</field>
+                                          <block type="math_number" id="qt?z|=[ordjkFsa{CxlK">
+                                            <field name="NUM">1</field>
                                           </block>
                                         </value>
                                       </block>
