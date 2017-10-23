@@ -256,7 +256,7 @@
           <block type="variables_get" id="Kj+o2HPe^1#-J*pl.VD9">
             <field name="VAR">martingale:profit</field>
           </block>
-        </value>
+        </value> 
         <next>
           <block type="variables_set" id="=``}2YqGE51x5XO#O{A6">
             <field name="VAR">martingale:totalProfit</field>
