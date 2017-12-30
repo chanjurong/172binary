@@ -177,6 +177,7 @@
           <block type="variables_set" id=",*SKPEhPmhmsq#tq`G*9">
             <field name="VAR">martingale:size</field>
             <value name="VALUE">
+              <block type="math_number" id="tNP@,EBgjET40TC9jh05">
               <block type="math_arithmetic" id=";x;#^I=T5+dN,Zu?u9%y">
                 <field name="OP">MULTIPLY</field>
                 <value name="A">
@@ -193,6 +194,7 @@
                   </shadow>
                   <block type="math_number" id="f4;y.Q47WJBWSp4}1|_k">
                     <field name="NUM">0.95</field>
+                  </block>
                   </block>
               
         <!--      
